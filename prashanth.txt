@@ -1,1 +1,2 @@
 tHIS IS MY SIMPLE TEST FILE
+tHIS IS MY SIMPLE TEST FILE which is modified.
